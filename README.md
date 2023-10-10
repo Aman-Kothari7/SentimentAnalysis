@@ -57,10 +57,4 @@ To run this project locally, you can follow these steps:
 
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Feel free to modify and expand this README to provide more details about your project, its goals, and any additional insights you want to share with potential users or contributors. Good luck with your project!
